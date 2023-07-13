@@ -1,0 +1,184 @@
+/* Add CSS here */
+.body-container {
+    font-family: 'poppins', sans-serif;
+    background-color: #1d51ad;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    height: 305px;
+    border-radius: 0.5em;
+    width: 55%;
+    background-color: #283593;
+}
+
+.f-line {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+    margin-left: 20px;
+    margin: 20px;
+}
+
+.cards {
+    height: 60px;
+    font-size: 25px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    border-radius: 0.2em;
+    width: 40px;
+    background-color: #242f7e;
+}
+
+.s-line {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto;
+    margin-left: 20px;
+    margin: 40px;
+    margin-top: -5px;
+}
+
+.card {
+    height: 60px;
+    font-size: 25px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    border-radius: 0.2em;
+    width: 40px;
+    background-color: #242f7e;
+}
+
+.t-line {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    margin: 100px;
+    margin-top: -60px;
+}
+
+.car {
+    height: 60px;
+    font-size: 25px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white;
+    border-radius: 0.2em;
+    width: 40px;
+    background-color: #242f7e;
+}
+
+.sht {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 20px;
+    border-radius: 0.2em;
+    height: 60px;
+    width: 60px;
+    background-color: #0a1256;
+    margin-top: -30px;
+}
+
+.material-symbols-outlined {
+    font-size: 45px;
+    font-weight: 200;
+}
+
+.back-space {
+    margin-left: 540px;
+    margin-top: -160px;
+    height: 60px;
+    border-radius: 0.2em;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    width: 60px;
+    background-color: rgb(225, 41, 41);
+}
+
+.content {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin: 20px;
+    max-width: 370px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.no {
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    border-radius: 0.2em;
+    height: 60px;
+    font-size: 20px;
+    width: 60px;
+    background-color: #242f7e;
+}
+
+.sphere {
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    border-radius: 0.2em;
+    height: 60px;
+    font-size: 20px;
+    width: 60px;
+    background-color: #242f7e;
+}
+
+.mic {
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    border-radius: 0.2em;
+    height: 60px;
+    font-size: 10px;
+    width: 45px;
+    background-color: #242f7e;
+}
+
+.spc {
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    border-radius: 0.2em;
+    height: 60px;
+    font-size: 20px;
+    width: 170px;
+    background-color: #242f7e;
+}
+
+.srh {
+    align-items: center;
+    color: white;
+    justify-content: center;
+    display: flex;
+    font-weight: 600;
+    border-radius: 0.2em;
+    margin-right: -200px;
+    height: 60px;
+    font-size: 20px;
+    width: 140px;
+    background-color: #242f7e;
+}
